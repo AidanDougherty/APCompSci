@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SciFiName
+comment0.text=\n\ SciFiName\ gathers\ input\ from\ a\ user\ to\ generate\ a\ custom\ name\ that\n\ sounds\ like\ it\ could\ be\ used\ in\ a\ science\ fiction\ book\ or\ movie.\n\ \n\ @author\ ckinnard\n\ @version\ 3/4/16\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\n\ All\ input\ that\ you\ privide\ should\ be\ at\ least\ three\ letters\ long\n\ or\ the\ program\ may\ crash\ (but\ feel\ free\ to\ test\ this\!)\n\ \n\ For\ best\ results,\ user\ lowercase\ letters\ and\ do\ not\ use\ spaces\ in\ your\ input\n
+comment2.params=relative1\ relative2
+comment2.target=java.lang.String\ genBirthplace(java.lang.String,\ java.lang.String)
+comment3.params=city\ school
+comment3.target=java.lang.String\ genLastName(java.lang.String,\ java.lang.String)
+comment4.params=firstName\ lastName
+comment4.target=java.lang.String\ genFirstName(java.lang.String,\ java.lang.String)
+numComments=5
