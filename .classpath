@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="4thPeriodCircle/src"/>
+	<classpathentry kind="src" path="BlueJStuff/1.1.5SciFiName_Starter"/>
+	<classpathentry kind="src" path="DiamondDrawing/src"/>
+	<classpathentry kind="src" path="MagpieActivityStarterCode/activity2"/>
+	<classpathentry kind="src" path="MagpieActivityStarterCode/activity3"/>
+	<classpathentry kind="src" path="MagpieActivityStarterCode/activity4"/>
+	<classpathentry kind="src" path="MagpieActivityStarterCode/activity5"/>
+	<classpathentry kind="src" path="MoreStuffWithArraysUsingSortableRobots/src"/>
+	<classpathentry kind="src" path="RoomCleaner/RoomCleaner/src"/>
+	<classpathentry kind="src" path="SortRobots/src"/>
+	<classpathentry kind="lib" path="4thPeriodCircle/KarelJRobot.jar"/>
+	<classpathentry kind="lib" path="DiamondDrawing/KarelJRobot.jar"/>
+	<classpathentry kind="lib" path="MoreStuffWithArraysUsingSortableRobots/KarelJRobot.jar"/>
+	<classpathentry kind="lib" path="RoomCleaner.jar"/>
+	<classpathentry kind="lib" path="RoomCleaner/RoomCleaner/KarelJRobot.jar"/>
+	<classpathentry kind="lib" path="SortRobots/KarelJRobot.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="SortRobots/bin"/>
+</classpath>
