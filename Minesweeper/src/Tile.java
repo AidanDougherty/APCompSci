@@ -19,6 +19,6 @@ public class Tile {
 		// TODO Auto-generated method stub
 		isAMine=!isAMine;
 	}
-	
+	//PEDRO WAS HERE
 	
 }
